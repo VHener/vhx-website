@@ -33,7 +33,7 @@ export function Footer() {
             </a>
           </div>
           <div className="text-center md:text-right text-sm text-muted-foreground">
-            <p>© {new Date().getFullYear()} VHX Tech. Todos os direitos reservados.</p>
+            <p>© VHX Tech – Tecnologia com propósito. Todos os direitos reservados.</p>
             <p>contato@vhxtech.com.br | (11) 99999-9999</p>
           </div>
         </div>

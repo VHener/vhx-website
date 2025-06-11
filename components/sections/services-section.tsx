@@ -6,25 +6,25 @@ const services = [
     icon: Code,
     title: "Desenvolvimento de Sistemas",
     description:
-      "Criamos sistemas personalizados que automatizam processos e aumentam a eficiência operacional da sua empresa.",
+      "Criamos plataformas web e sistemas personalizados para melhorar o desempenho e automatizar os processos da sua empresa.",
   },
   {
     icon: Smartphone,
     title: "Aplicativos Mobile/Web",
     description:
-      "Desenvolvemos aplicativos intuitivos e responsivos para todas as plataformas, garantindo a melhor experiência para seus usuários.",
+      "Aplicativos modernos e responsivos, desenvolvidos para conectar empresas e clientes com eficiência e inovação.",
   },
   {
     icon: Lightbulb,
     title: "Consultoria Tecnológica",
     description:
-      "Oferecemos orientação especializada para ajudar sua empresa a tomar decisões estratégicas em tecnologia.",
+      "Analisamos sua operação e entregamos planos de ação para transformar a tecnologia no motor de crescimento do seu negócio.",
   },
   {
     icon: BarChart3,
     title: "Transformação de Dados",
     description:
-      "Convertemos dados brutos em insights estratégicos que impulsionam a tomada de decisões do seu negócio.",
+      "Integramos e organizamos dados para gerar insights valiosos, facilitando decisões estratégicas com inteligência.",
   },
 ]
 

@@ -10,10 +10,11 @@ export function HeroSection() {
         <div className="grid gap-6 lg:grid-cols-2 items-center">
           <div className="flex flex-col gap-4">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
-              Soluções Tecnológicas <span className="text-primary">Sob Medida</span>
+              Tecnologia sob medida para transformar seu negócio
             </h1>
             <p className="text-lg text-muted-foreground max-w-[600px]">
-              Transformamos ideias em soluções digitais inovadoras que impulsionam o crescimento do seu negócio.
+              Somos especialistas em criar sistemas, apps e consultorias digitais que geram eficiência, automação e
+              resultados reais para empresas.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mt-4">
               <Button size="lg">Solicite um orçamento</Button>

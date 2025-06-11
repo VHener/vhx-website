@@ -4,22 +4,22 @@ const founder = {
   name: "Vinícius Hener",
   role: "Fundador e Desenvolvedor",
   description:
-    "Atua também como Dev na multinacional Thomson Reuters e aplica sua experiência em soluções tecnológicas dentro da VHX.",
+    "Fundador da VHX Tech e desenvolvedor de sistemas com experiência nacional e internacional. Atua também como Dev na multinacional Thomson Reuters, levando para a VHX as melhores práticas do mercado global.",
   image: "/placeholder.svg?height=128&width=128",
 }
 
 const teamMembers = [
   {
-    name: "Pessoa 1",
-    role: "Função",
-    description:
-      "Especialista em desenvolvimento de soluções inovadoras com foco em experiência do usuário e performance.",
+    name: "Ana Costa",
+    role: "UX Designer",
+    description: "Responsável pelas interfaces modernas e experiências intuitivas dos projetos entregues pela VHX.",
     image: "/placeholder.svg?height=128&width=128",
   },
   {
-    name: "Pessoa 2",
-    role: "Função",
-    description: "Profissional com vasta experiência em gestão de projetos e implementação de soluções tecnológicas.",
+    name: "Lucas Almeida",
+    role: "Arquiteto de Soluções",
+    description:
+      "Especialista em infraestrutura e arquitetura de sistemas, garantindo segurança, performance e escalabilidade.",
     image: "/placeholder.svg?height=128&width=128",
   },
 ]
@@ -32,9 +32,10 @@ export function AboutSection() {
           <div className="text-center max-w-[800px] mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Sobre a VHX Tech</h2>
             <p className="text-muted-foreground">
-              Nossa missão é entregar soluções tecnológicas de alta qualidade, com foco em inovação e resultados
-              tangíveis para nossos clientes. Acreditamos que a tecnologia bem aplicada pode automatizar processos,
-              reduzir custos e impulsionar negócios para um novo patamar de eficiência.
+              A VHX Tech é uma empresa de tecnologia que entrega soluções digitais sob medida, com foco em inovação,
+              performance e resultados reais. Nossa missão é transformar ideias em soluções tecnológicas eficientes,
+              conectando estratégia com execução e aproximando empresas do seu potencial digital máximo. Acreditamos que
+              a tecnologia deve ser clara, útil e escalável — e é isso que oferecemos.
             </p>
           </div>
 

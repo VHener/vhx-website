@@ -79,7 +79,7 @@ export function ContactSection() {
                     <div>
                       <p className="text-sm font-medium">WhatsApp</p>
                       <a
-                        href="https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20VHX%20Tech"
+                        href="https://wa.me/5511999999999?text=Olá%2C+gostaria+de+falar+com+a+VHX+Tech+sobre+um+projeto."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-sm text-muted-foreground hover:text-primary"
@@ -94,7 +94,7 @@ export function ContactSection() {
 
             <Button variant="default" size="lg" className="w-full" asChild>
               <a
-                href="https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20VHX%20Tech"
+                href="https://wa.me/5511999999999?text=Olá%2C+gostaria+de+falar+com+a+VHX+Tech+sobre+um+projeto."
                 target="_blank"
                 rel="noopener noreferrer"
               >
